@@ -1,0 +1,2 @@
+metric,unit,count,average,minimum,maximum
+disk_percent,%,80,66.56,62.0,72.0

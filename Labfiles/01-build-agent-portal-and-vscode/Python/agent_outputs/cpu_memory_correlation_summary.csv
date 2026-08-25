@@ -1,0 +1,8 @@
+metric,value
+Pearson r (all),0.974
+Spearman rho (all),0.989
+Pearson r (CPU>80%),0.979
+Spearman rho (CPU>80%),0.983
+Avg memory when CPU>80% (%),78.53
+Avg memory when CPU<=80% (%),52.25
+Difference (high - normal) (%),26.28
